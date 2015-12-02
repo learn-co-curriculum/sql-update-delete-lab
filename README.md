@@ -12,3 +12,5 @@ Now that you've learned how to update and delete data from a table, let's practi
 ## Todo
 
 Pass the few specs by writing your SQL statements in `lib/update.sql` and `lib/delete.sql`. The data you'll see in the `lib/insert.sql` should be familiar from the last lab.
+
+<a href='https://learn.co/lessons/sql-update-delete-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
